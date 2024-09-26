@@ -8,5 +8,5 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
   gem 'wmd-rails', '~> 0.0.7'
 end
-gem 'tzinfo-data',platforms: [:mingw, :mswin]
+gem 'tzinfo-data'
 gem 'github-pages'
